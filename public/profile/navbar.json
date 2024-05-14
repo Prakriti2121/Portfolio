@@ -1,8 +1,8 @@
 {
     "logo" : {
-        "source": "images/logo.png",
-        "height" : 45,
-        "width" : 50
+        "source": "images/prakriti-logo.png",
+        "height" : 40,
+        "width" : 40
     },
     "sections": [
         {
@@ -31,7 +31,7 @@
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://docs.google.com/document/d/1nkGa3S9hHl22AYQTbePfGgUIY3dQPHmwhPGaFUQEk8Q/edit",
             "type": "link"
         }
     ]

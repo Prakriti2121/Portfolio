@@ -9,7 +9,7 @@ import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
   introTextContainer: {
-    margin: 10,
+    margin: 20,
     flexDirection: 'column',
     whiteSpace: 'pre-wrap',
     textAlign: 'left',
@@ -17,7 +17,8 @@ const styles = {
     fontWeight: 500,
   },
   introImageContainer: {
-    margin: 10,
+    margin: '-21.5% -25% 6.25% -25%',
+    flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
